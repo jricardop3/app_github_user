@@ -1,2 +1,9 @@
 # app_github_user
- Consumindo ApiRest do gitHub com Vue.JS
+
+Consumindo Api do GitHub com Vue.Js
+
+## Desafios:
+
+Desenvolver uma interface que consuma a apirest do github.
+Estilizar utilizando Framework de front-end - Bootstrap.
+
