@@ -1,11 +1,10 @@
 <script setup>
-import CompositionApi from './components/CompositionApi.vue';
+import Profile from './components/Profile.vue';
 
 </script>
 
 <template>
-  
-  <CompositionApi/>
+  <Profile/>
 </template>
 
 <style>
