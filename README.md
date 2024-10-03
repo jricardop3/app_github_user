@@ -3,6 +3,7 @@
 ## Descrição
 
 Este é um aplicativo simples desenvolvido para consumir a API REST do GitHub utilizando Vue.js. O aplicativo permite visualizar informações de usuários do GitHub, como repositórios públicos, seguidores, seguindo e muito mais.
+Versão demo: https://appusergithub.netlify.app/
 
 ## Desafios
 
